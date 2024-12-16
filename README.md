@@ -1,2 +1,1 @@
-# PhoneBookApp
-A simple phonebook with C#
+This is a homework for development with C#
